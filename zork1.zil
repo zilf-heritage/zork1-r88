@@ -27,22 +27,22 @@
 <COND (<GASSIGNED? PREDGEN>
        <ID 0>)>
 
-<IFILE "GMACROS" T>
+<IFILE "gmacros" T>
 
-<IFILE "GSYNTAX" T>
-<IFILE "1DUNGEON" T>
-<IFILE "GGLOBALS" T>
+<IFILE "gsyntax" T>
+<IFILE "1dungeon" T>
+<IFILE "gglobals" T>
 
 <PROPDEF SIZE 5>
 <PROPDEF CAPACITY 0>
 <PROPDEF VALUE 0>
 <PROPDEF TVALUE 0>
 
-<IFILE "GCLOCK" T>
-<IFILE "GMAIN" T>
-<IFILE "GPARSER" T>
-<IFILE "GVERBS" T>
-<IFILE "1ACTIONS" T>
+<IFILE "gclock" T>
+<IFILE "gmain" T>
+<IFILE "gparser" T>
+<IFILE "gverbs" T>
+<IFILE "1actions" T>
 
 <GC 0 T>
 
